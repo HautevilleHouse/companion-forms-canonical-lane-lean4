@@ -5,3 +5,4 @@ import CompanionFormsCanonicalLaneLean.SourceDependencies
 import CompanionFormsCanonicalLaneLean.Formalization
 import CompanionFormsCanonicalLaneLean.ReviewerBridge
 import CompanionFormsCanonicalLaneLean.TheoremStatement
+import CompanionFormsCanonicalLaneLean.MathlibStatement
